@@ -37,3 +37,10 @@
 - Untuk memitigasi risiko tersebut, arsitektur dimodifikasi menjadi microservice dengan empat database terpisah per service, sehingga kegagalan satu database tidak merambat ke service lain. Komunikasi antar service yang tidak membutuhkan respons langsung, seperti pembuatan wallet saat register, refund saat order dibatalkan, dan update rating catalog yang akan dialihkan ke RabbitMQ sebagai message broker. Dengan ini, jika Wallet Service down, pesan refund tetap tersimpan aman di antrean dan diproses saat service kembali normal, tanpa mengganggu Order Service. Selain itu, karena platform ini berpotensi mengalami lonjakan traffic tinggi saat Jastiper membuka slot perjalanan populer dan banyak Titiper berebut checkout secara bersamaan, Nginx Load Balancer ditambahkan untuk mendistribusikan beban ke beberapa instance service secara merata yang akan memastikan sistem tetap responsif di kondisi high load atau "war" sekalipun.
 
 ---
+
+## 4. Individual Works (Catalog) - Ghozam Muliawan Sholihin
+
+### Component Diagram
+![ComponentDiagramCatalog](images/container-catalog.png)
+![CodeDiagramCatalog](images/code-catalog.svg)
+
