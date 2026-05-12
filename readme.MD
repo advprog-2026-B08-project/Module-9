@@ -44,6 +44,8 @@
 ![ComponentDiagramCatalog](images/container-catalog.png)
 ![CodeDiagramCatalog](images/code-catalog.svg)
 
+---
+
 ## Individual Works (Auth) - Andrew Wanarahardja
 
 ### Component Diagram
@@ -59,3 +61,11 @@
 #### KycRequestService
 ![alt text](images/code_diagram_KycRequestService.png)
 
+---
+
+## Individual Works (Order) - Clairine Christabel Lim
+
+### Component Diagram
+![ComponentDiagramOrder](images/container-order.png)
+### Code Diagram
+![CodeDiagramOrder](images/code-order.png)
