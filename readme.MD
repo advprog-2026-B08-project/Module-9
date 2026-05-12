@@ -44,3 +44,10 @@
 ![ComponentDiagramCatalog](images/container-catalog.png)
 ![CodeDiagramCatalog](images/code-catalog.svg)
 
+---
+
+## 5. Individual Works (Order) - Clairine Christabel Lim
+
+### Component Diagram
+![ComponentDiagramOrder](container-order.png)
+![CodeDiagramOrder](images/code-order.png)
