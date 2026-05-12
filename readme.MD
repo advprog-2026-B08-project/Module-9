@@ -50,4 +50,5 @@
 
 ### Component Diagram
 ![ComponentDiagramOrder](images/container-order.png)
+### Code Diagram
 ![CodeDiagramOrder](images/code-order.png)
