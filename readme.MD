@@ -21,3 +21,10 @@
 ![Deployment Diagram](images/deployment.png)
 
 ---
+
+## 2. The Future Architecture
+
+![Future Container Diagram](images/container-after.png)
+- Context Diagram tidak ada yang berubah
+
+---
