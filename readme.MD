@@ -61,6 +61,22 @@
 #### KycRequestService
 ![alt text](images/code_diagram_KycRequestService.png)
 
+## Individual Works (Wallet) - Benedictus Lucky Win Ziraluo
+
+### Component Diagram
+![Wallet Component Diagram](images/wallet-component-diagram.png)
+
+### Code Diagram
+#### Domain / Entity & Repository Layer
+![Code Diagram 1](images/wallet-code-domain.png)
+
+#### Service Layer & Business Logic
+![Code Diagram 2](images/wallet-code-service.png)
+
+#### API & Controller Layer
+![Code Diagram 3](images/wallet-code-controller.png)
+
+
 ---
 
 ## Individual Works (Order) - Clairine Christabel Lim
@@ -69,3 +85,4 @@
 ![ComponentDiagramOrder](images/container-order.png)
 ### Code Diagram
 ![CodeDiagramOrder](images/code-order.png)
+
