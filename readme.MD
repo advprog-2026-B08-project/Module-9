@@ -44,3 +44,18 @@
 ![ComponentDiagramCatalog](images/container-catalog.png)
 ![CodeDiagramCatalog](images/code-catalog.svg)
 
+## Individual Works (Auth) - Andrew Wanarahardja
+
+### Component Diagram
+![alt text](images/auth_component_diagram.png)
+
+### Code diagram
+#### ActionLogRepository
+![alt text](images/code_diagram_ActionLogRepository.png)
+#### ActionLogService
+![alt text](images/code_diagram_ActionLogService.png)
+#### CustomUserDetailService
+![alt text](images/code_diagram_CustomUserDetailService.png)
+#### KycRequestService
+![alt text](images/code_diagram_KycRequestService.png)
+
