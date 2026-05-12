@@ -46,7 +46,7 @@
 
 ---
 
-## 5. Individual Works (Order) - Clairine Christabel Lim
+## Individual Works (Order) - Clairine Christabel Lim
 
 ### Component Diagram
 ![ComponentDiagramOrder](images/container-order.png)
